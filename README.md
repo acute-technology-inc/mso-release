@@ -21,7 +21,7 @@ file into executable before using it.
 
 Check the box that says “Allow executing file as program” as shown in the image.
 
-![Demo Image](https://github.com/acute-technology-inc/dso-release/blob/main/res/image.png?raw=true)
+![Demo Image](https://github.com/acute-technology-inc/mso-release/blob/main/res/image.png?raw=true)
 
 Or, you can type
 
