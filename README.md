@@ -2,6 +2,8 @@
 
 Public release of Mixed Signal Oscilloscope software for Acute's Mixed Signal Oscilloscope products.
 
+**_NOTE:_** The software on Linux platform are still marked as beta versions. Please create an issue if you encounter any errors when running the program.
+
 ## Supported Models
 
 | Types                        | Product                                       | 
