@@ -46,3 +46,7 @@ devices. Thus, you may need to install the udev rule file that you can obtain fr
 
 3.	Restart PC.
 4.	Launch the software.
+
+## Troubleshooting
+
+See [Troubleshooting guide](https://github.com/acute-technology-inc/mso-release/blob/main/TROUBLESHOOTING.md) if you encounter any issues regarding the application.

@@ -5,7 +5,7 @@ This guide is for troubleshooting software on Linux platforms.
 ## Fail to launch the software
 
 
-* You might see `dlopen(): error loading libfuse.so.2` where some distros does not have `fuse` library by default, try manually install `libfuse2` by using the following command
+* You might see `dlopen(): error loading libfuse.so.2` where some distros does not have [`fuse`](https://packages.debian.org/bookworm/libfuse2) library by default. Try manually install `libfuse2` by using the following command
 
     ```
         sudo apt install libfuse2
